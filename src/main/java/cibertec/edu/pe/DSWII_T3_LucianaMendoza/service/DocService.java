@@ -1,5 +1,6 @@
 package cibertec.edu.pe.DSWII_T3_LucianaMendoza.service;
 
+import cibertec.edu.pe.DSWII_T3_LucianaMendoza.exception.FileExtensionException;
 import org.apache.tomcat.util.http.fileupload.impl.FileSizeLimitExceededException;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
